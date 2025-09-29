@@ -124,12 +124,13 @@ body {
 
 .cta {
     position: relative;
+    margin: auto;
     padding: 12px 18px;
     transition: all 0.2s ease;
     border: none;
     background: none;
     cursor: pointer;
-    margin-left: 2.6rem;
+    margin-left: 5rem;
 }
 
 .cta span {
@@ -908,6 +909,7 @@ body {
     min-width: unset;
   }
 }
+
 
 
 
