@@ -130,7 +130,7 @@ body {
     border: none;
     background: none;
     cursor: pointer;
-    margin-left: 1rem;
+    margin-left: 2.6rem;
 }
 
 .cta span {
@@ -909,6 +909,7 @@ body {
     min-width: unset;
   }
 }
+
 
 
 
