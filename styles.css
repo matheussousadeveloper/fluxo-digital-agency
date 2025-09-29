@@ -260,12 +260,7 @@ body {
   text-align: center;
 }
 
-.hero-buttons {
-  display: flex;
-  gap: 1rem;
-  flex-wrap: wrap;
-  margin-left: 2.6rem;
-}
+
 
 /* ===================================
    ABOUT SECTION
@@ -850,3 +845,4 @@ body {
     min-width: unset;
   }
 }
+
