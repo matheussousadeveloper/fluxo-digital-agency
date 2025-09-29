@@ -165,7 +165,7 @@ body {
     fill: none;
     stroke-linecap: round;
     stroke-linejoin: round;
-    stroke: var(--color-destaque2);
+    stroke: #0d1b2a;
     stroke-width: 2;
     transform: translateX(-5px);
     transition: all 0.3s ease;
@@ -173,12 +173,12 @@ body {
 
 .cta:hover:before {
     width: 100%;
-    background: var(--color-destaque2);
+    background: #8ecae6;
 }
 
 .cta:hover svg {
     transform: translateX(0);
-    stroke: var(--color-destaque1);
+    stroke: #8ecae6;
 }
 
 .cta:active {
@@ -908,5 +908,6 @@ body {
     min-width: unset;
   }
 }
+
 
 
